@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <title> Student Registration Form </title>
+    </head>
+
+    <body>
+        <label> Enter Your Firt And Last Name </label>
+        <input type="text">
+        <br>
+        <br>
+        
+        <label> Student code </label>
+        <input type="number">
+        <br>
+        <br>
+       
+        <label> National Student Code </label>
+        <input type="number">
+        <br>
+        <br>
+        
+        <label> Select Acceptance Section </label>
+        <br>
+        <input type="radio"name="Bachelor">
+        <label> Bachelor </label>
+        <input type="radio"name="MA">
+        <label> MA </label>
+        <input type="radio" name="Doctorate">
+        <label> Doctorate </label>
+        <br>
+        <br>
+       
+        <label> Choose Your Gender </label>
+        <br>
+        <input type="radio"name="man">
+        <label> Man </label>
+        <input type="radio"name="female" >
+         <label> Female </label>
+         <br>
+         <br>
+
+         <label> Upload Your National card Photo </label>
+        <input type="file">
+        <br>
+        <br>
+
+        <label> Upload Your Photo </label>
+        <input type="file">
+        <br>
+        <br>
+        
+        <label> Upload A Photo Of Your Latest Degree </label>
+        <input type="file">
+        <br>
+        <br>
+        
+        <label> Your Number </label>
+        <input type="number">
+        <br>
+        <br>
+        
+        <label> Enter Your Email </label>
+        <input type="text">
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <button>Send</button>
+        
+    
+    
+    </body>
+</html>
